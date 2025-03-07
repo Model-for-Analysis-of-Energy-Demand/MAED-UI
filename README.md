@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10189303.svg)](https://doi.org/10.5281/zenodo.10189303)
 [![IAEA Case Studies](https://img.shields.io/badge/Documentation-MAED2-yellow)](https://www.iaea.org/publications/7430/model-for-analysis-of-energy-demand-maed-2)
 [![IAEA Case Studies](https://img.shields.io/badge/Examples-IAEA_Case_Studies-red)](https://www.iaea.org/topics/energy-planning/case-studies)
-![License](https://img.shields.io/github/license/FINPLAN-Model/FINPLAN-UI)
+![License](https://img.shields.io/github/license/Model-for-Analysis-of-Energy-Demand/MAED-UI)
 [![Discourse Badge](https://img.shields.io/badge/Discourse-Community-pink)](https://forum.u4ria.org/)
 
 ## Introduction
