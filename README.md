@@ -1,4 +1,4 @@
-# MAED User Interface
+# MAED 2 User Interface
 ![GitHub all releases (purple)](https://img.shields.io/github/downloads/Model-for-Analysis-of-Energy-Demand/MAED-UI/total?color=purple)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10189303.svg)](https://doi.org/10.5281/zenodo.10189303)
 [![IAEA Case Studies](https://img.shields.io/badge/Documentation-MAED2-yellow)](https://www.iaea.org/publications/7430/model-for-analysis-of-energy-demand-maed-2)
