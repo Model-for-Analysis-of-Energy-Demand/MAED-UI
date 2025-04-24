@@ -9,6 +9,8 @@
 ## Introduction
 The Model for the Analysis of Energy Demand (MAED) was developed by the International Atomic Energy Agency (IAEA) and evaluates future energy demands (final and useful) based on medium to long term scenarios of socioeconomic, technological, and demographic development. Energy demand is disaggregated into a large number of end-use categories corresponding to different goods and services. MAED can be configured to reflect the economic structure of the sub-national or national case study in question.
 
+Please find the documentation, DOI (for referencing), case study examples, license, and troubleshooting community through the links found above.
+
 ## Installation
 This repository contains the executable for downloading and installing the User Interface for MAED. It is regularly updated with changes made noted in the Release description.
 
